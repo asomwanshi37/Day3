@@ -1,0 +1,27 @@
+using System;
+
+namespace EmpolyeeWage
+{
+    class Program
+    {           /// <Showing Employee is Present or Absent>
+    /// 
+    /// </summary>
+
+        static void Main(string[] args)
+        {
+            int Employee= 0;
+            
+            
+            if (Employee == 1)
+            
+                Console.WriteLine("Employee is present");
+                
+             else
+            
+                Console.WriteLine("Employee is Absent");
+                
+            
+               
+        }
+    }
+}
